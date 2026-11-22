@@ -7,10 +7,6 @@
 
 An interactive **Streamlit** dashboard with a **Netflix-inspired** cinematic interface that analyses how Netflix distributes its content catalog across formats, countries, genres, maturity ratings and time.
 
-> **Live demo:** _add your Streamlit Community Cloud link here_
-
-<!-- Add a demo video or GIF here (see "Demo" below) -->
-![Dashboard preview](assets/dashboard-preview.png)
 
 ---
 
